@@ -1,0 +1,40 @@
+🎓 Student Management System (SQL Project)
+
+I created a simple Student Management System using SQL to practice database design, data relationships, and analytical queries.
+This project helped me strengthen my understanding of joins, aggregate functions, and group operations in SQL.
+
+🧩 Project Overview
+
+Created tables for students, departments, and marks
+
+Inserted sample data for easy testing
+
+Wrote multiple queries to analyze and manage student data
+
+🔍 Key SQL Queries Used
+
+View all students
+
+Find students in a specific department
+
+Calculate average marks for each student
+
+Identify the top-performing student
+
+List students scoring above 80
+
+Count students per department
+
+Find total male vs female students
+
+🛠 Tools & Skills
+
+MySQL / SQL
+
+Joins, GROUP BY, Aggregate Functions
+
+Database Relationships & Query Optimization
+
+📁 Project Type
+
+Beginner-friendly SQL project — perfect for learning database management and data analysis.
